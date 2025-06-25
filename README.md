@@ -14,7 +14,7 @@ An on-chain **Fruit Ninja** game built entirely in Solidity. Slice fruits, avoid
  
 ---
  
-## 🛠 Smart Contract
+## 🛠 Smart Contract 
 
 ```solidity
 // SPDX-License-Identifier: MIT
