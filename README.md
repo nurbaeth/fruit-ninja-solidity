@@ -10,7 +10,7 @@ An on-chain **Fruit Ninja** game built entirely in Solidity. Slice fruits, avoid
 - 80% chance to slice a **fruit** (+1 point).   
 - 20% chance to hit a **bomb** (💥 game over).   
 - Restart anytime with `restart()` to play again.       
-- View your score and status with `getMyScore()` and `isGameOver()`. 
+- View your score and status with `getMyScore()` and `isGameOver()`.  
 
 ---
 
