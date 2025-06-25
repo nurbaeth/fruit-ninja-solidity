@@ -18,7 +18,7 @@ An on-chain **Fruit Ninja** game built entirely in Solidity. Slice fruits, avoid
 
 ```solidity 
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.0; 
 
 contract FruitNinja {
     enum ObjectType { None, Fruit, Bomb }
