@@ -5,7 +5,7 @@ An on-chain **Fruit Ninja** game built entirely in Solidity. Slice fruits, avoid
 ---   
       
 ## 🕹 Gameplay      
-   
+    
 - Call the `slice()` function to slice a falling object.   
 - 80% chance to slice a **fruit** (+1 point).     
 - 20% chance to hit a **bomb** (💥 game over).    
