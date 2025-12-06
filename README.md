@@ -12,7 +12,7 @@ An on-chain **Fruit Ninja** game built entirely in Solidity. Slice fruits, avoid
 - Restart anytime with `restart()` to play again.          
 - View your score and status with `getMyScore()` and `isGameOver()`.      
     
----    
+---     
      
 ## 🛠 Smart Contract  
  
