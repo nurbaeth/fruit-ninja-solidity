@@ -1,4 +1,4 @@
-# 🍉 Fruit Ninja — Solidity Edition        
+# 🍉 Fruit Ninja — Solidity Edition         
         
 An on-chain **Fruit Ninja** game built entirely in Solidity. Slice fruits, avoid bombs, and try to beat your high score — all on the Ethereum blockchain. No tokens, no rewards, no gas optimization — just pure fun for developers and on-chain game lovers.       
        
